@@ -1,0 +1,40 @@
+Nov 30 04:05:42.310 INFO: manager: 2.0.1
+Nov 30 04:05:42.310 INFO: manager: Copyright (C) 2003-2022, Noriaki Ando and OpenRTM development team,
+Nov 30 04:05:42.310 INFO: manager:   Intelligent Systems Research Institute, AIST,
+Nov 30 04:05:42.310 INFO: manager: Copyright (C) 2022, Noriaki Ando and OpenRTM development team,
+Nov 30 04:05:42.310 INFO: manager:   Industrial Cyber-Physical Research Center, AIST,
+Nov 30 04:05:42.310 INFO: manager:   All right reserved.
+Nov 30 04:05:42.310 INFO: manager: Manager starting.
+Nov 30 04:05:42.310 INFO: manager: Starting local logging.
+Nov 30 04:05:42.316 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+Nov 30 04:05:42.316 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Nov 30 04:05:42.317 INFO: ManagerServant: Named manager reference (INS) was successfully created.
+Nov 30 04:05:42.318 WARNING: ManagerServant: Master manager not found
+Nov 30 04:05:42.320 INFO: LocalServiceAdmin: All the local services are enabled.
+Nov 30 04:05:42.332 INFO: manager: Component type conf file: Navi_cui.conf loaded.
+Nov 30 04:05:42.332 INFO: ec_base: setRate(1000000.000000) done
+Nov 30 04:05:42.332 INFO: ec_base: setRate(1000.000000) done
+Nov 30 04:05:42.332 INFO: Navi_cui0: 1 execution context was created.
+Nov 30 04:05:42.333 INFO: Navi_cui0: Initial active configuration set is default.
+Nov 30 04:05:52.358 INFO: ManagerServant: Master manager not found
+Nov 30 04:06:02.369 INFO: ManagerServant: Master manager not found
+Nov 30 04:06:03.722 WARNING: cui_in: Dead connection: 16bc9753-5538-4a11-ae6c-b6b847d8f2b0
+Nov 30 04:06:03.722 WARNING: cui_in: Exception caught: minor code(1096024066).
+Nov 30 04:06:12.383 INFO: ManagerServant: Master manager not found
+Nov 30 04:06:22.393 INFO: ManagerServant: Master manager not found
+Nov 30 04:06:30.649 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Nov 30 04:06:32.407 INFO: ManagerServant: Master manager not found
+Nov 30 04:06:42.418 INFO: ManagerServant: Master manager not found
+Nov 30 04:06:52.430 INFO: ManagerServant: Master manager not found
+Nov 30 04:07:02.440 INFO: ManagerServant: Master manager not found
+Nov 30 04:07:12.452 INFO: ManagerServant: Master manager not found
+Nov 30 04:07:22.464 INFO: ManagerServant: Master manager not found
+Nov 30 04:07:32.477 INFO: ManagerServant: Master manager not found
+Nov 30 04:07:42.490 INFO: ManagerServant: Master manager not found
+Nov 30 04:07:52.501 INFO: ManagerServant: Master manager not found
+Nov 30 04:08:02.514 INFO: ManagerServant: Master manager not found
+Nov 30 04:08:12.526 INFO: ManagerServant: Master manager not found
+Nov 30 04:08:22.538 INFO: ManagerServant: Master manager not found
+Nov 30 04:08:32.550 INFO: ManagerServant: Master manager not found
+Nov 30 04:08:42.560 INFO: ManagerServant: Master manager not found
+Nov 30 04:08:52.573 INFO: ManagerServant: Master manager not found

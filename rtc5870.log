@@ -1,0 +1,47 @@
+Nov 30 04:09:02.000 INFO: manager: 2.0.1
+Nov 30 04:09:02.000 INFO: manager: Copyright (C) 2003-2022, Noriaki Ando and OpenRTM development team,
+Nov 30 04:09:02.000 INFO: manager:   Intelligent Systems Research Institute, AIST,
+Nov 30 04:09:02.000 INFO: manager: Copyright (C) 2022, Noriaki Ando and OpenRTM development team,
+Nov 30 04:09:02.000 INFO: manager:   Industrial Cyber-Physical Research Center, AIST,
+Nov 30 04:09:02.000 INFO: manager:   All right reserved.
+Nov 30 04:09:02.000 INFO: manager: Manager starting.
+Nov 30 04:09:02.000 INFO: manager: Starting local logging.
+Nov 30 04:09:02.006 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+Nov 30 04:09:02.006 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Nov 30 04:09:02.007 INFO: ManagerServant: Named manager reference (INS) was successfully created.
+Nov 30 04:09:02.007 WARNING: ManagerServant: Master manager not found
+Nov 30 04:09:02.008 INFO: LocalServiceAdmin: All the local services are enabled.
+Nov 30 04:09:02.018 INFO: manager: Component type conf file: Navi_cui.conf loaded.
+Nov 30 04:09:02.018 INFO: ec_base: setRate(1000000.000000) done
+Nov 30 04:09:02.018 INFO: ec_base: setRate(1000.000000) done
+Nov 30 04:09:02.018 INFO: Navi_cui0: 1 execution context was created.
+Nov 30 04:09:02.018 INFO: Navi_cui0: Initial active configuration set is default.
+Nov 30 04:09:12.046 INFO: ManagerServant: Master manager not found
+Nov 30 04:09:22.061 INFO: ManagerServant: Master manager not found
+Nov 30 04:09:32.076 INFO: ManagerServant: Master manager not found
+Nov 30 04:09:42.090 INFO: ManagerServant: Master manager not found
+Nov 30 04:09:52.105 INFO: ManagerServant: Master manager not found
+Nov 30 04:10:02.121 INFO: ManagerServant: Master manager not found
+Nov 30 04:10:12.135 INFO: ManagerServant: Master manager not found
+Nov 30 04:10:22.149 INFO: ManagerServant: Master manager not found
+Nov 30 04:10:32.164 INFO: ManagerServant: Master manager not found
+Nov 30 04:10:42.179 INFO: ManagerServant: Master manager not found
+Nov 30 04:10:52.192 INFO: ManagerServant: Master manager not found
+Nov 30 04:11:02.206 INFO: ManagerServant: Master manager not found
+Nov 30 04:11:12.216 INFO: ManagerServant: Master manager not found
+Nov 30 04:11:14.956 WARNING: cui_in: Dead connection: 6ca764ed-3159-4d5a-b994-9e3cebbd1fea
+Nov 30 04:11:14.956 WARNING: cui_in: Exception caught: minor code(1096024066).
+Nov 30 04:11:22.228 INFO: ManagerServant: Master manager not found
+Nov 30 04:11:32.239 INFO: ManagerServant: Master manager not found
+Nov 30 04:11:33.155 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Nov 30 04:11:42.253 INFO: ManagerServant: Master manager not found
+Nov 30 04:11:52.264 INFO: ManagerServant: Master manager not found
+Nov 30 04:12:02.277 INFO: ManagerServant: Master manager not found
+Nov 30 04:12:12.289 INFO: ManagerServant: Master manager not found
+Nov 30 04:12:22.302 INFO: ManagerServant: Master manager not found
+Nov 30 04:12:32.316 INFO: ManagerServant: Master manager not found
+Nov 30 04:12:42.330 INFO: ManagerServant: Master manager not found
+Nov 30 04:12:52.345 INFO: ManagerServant: Master manager not found
+Nov 30 04:13:02.359 INFO: ManagerServant: Master manager not found
+Nov 30 04:13:12.381 INFO: ManagerServant: Master manager not found
+Nov 30 04:13:22.397 INFO: ManagerServant: Master manager not found

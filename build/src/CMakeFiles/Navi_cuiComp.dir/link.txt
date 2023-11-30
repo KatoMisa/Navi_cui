@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Navi_cuiComp.dir/Navi_cuiComp.cpp.o CMakeFiles/Navi_cuiComp.dir/Navi_cui.cpp.o  -o Navi_cuiComp  -lpthread -lRTC2 -lomniDynamic4 -lomniORB4 -lomnithread -lrtmCamera2 -lrtmManipulator2 
